@@ -7,10 +7,10 @@ _CUENTANOS TU EXPERIENCIA_
 ### INTEGRANTES:
 
 * **Juan Carlos Vivero Acevedo**
-*Maria José Segovia Santamaria
-*Salim Rafael Castro Ortíz
-*Daniela Téllez Morales
-*Flor Sarai Santiago Leonardo
+* **Maria José Segovia Santamaria**
+* **Salim Rafael Castro Ortíz**
+* **Daniela Téllez Morales**
+* **Flor Sarai Santiago Leonardo**
 
 * **Andrés Villanueva**
 
