@@ -12,5 +12,3 @@ _CUENTANOS TU EXPERIENCIA_
 * **Daniela Téllez Morales**
 * **Flor Sarai Santiago Leonardo**
 
-* **Andrés Villanueva**
-
