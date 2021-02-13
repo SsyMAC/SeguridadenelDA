@@ -2,9 +2,11 @@
 _CUENTANOS TU EXPERIENCIA_
 
 
-### OBJETIVO:
 
-### INTEGRANTES:
+
+#### OBJETIVO:
+
+#### INTEGRANTES:
 
 * **Juan Carlos Vivero Acevedo**
 * **Maria José Segovia Santamaria**
