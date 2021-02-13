@@ -2,4 +2,15 @@
 _CUENTANOS TU EXPERIENCIA_
 
 
-## OBJETIVO:
+### OBJETIVO:
+
+### INTEGRANTES:
+
+*Juan Carlos Vivero
+*Maria José Segovia Santamaria
+*Salim Rafael Castro Ortíz
+*Daniela Téllez Morales
+*Flor Sarai Santiago Leonardo
+
+
+
