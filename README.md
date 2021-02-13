@@ -2,7 +2,4 @@
 _CUENTANOS TU EXPERIENCIA_
 
 
-\`\`\`html 
-// <FONT COLOR:BLUE>
-
-OBJETIVO:
+## OBJETIVO:
