@@ -6,11 +6,11 @@ _CUENTANOS TU EXPERIENCIA_
 
 ### INTEGRANTES:
 
-*Juan Carlos Vivero
-*Maria José Segovia Santamaria
-*Salim Rafael Castro Ortíz
-*Daniela Téllez Morales
-*Flor Sarai Santiago Leonardo
+1. *Juan Carlos Vivero Acevedo
+2. *Maria José Segovia Santamaria
+3. *Salim Rafael Castro Ortíz
+4. *Daniela Téllez Morales
+5. *Flor Sarai Santiago Leonardo
 
 
 
